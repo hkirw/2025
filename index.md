@@ -25,6 +25,12 @@ We extremely welcome suggestions for a discussion topic and/or a lightning talk.
 
 TBD
 
+## Register
+
+Please [register here](https://forms.gle/65X2dLbgPXnA4ciC8).
+
+If you need an invitation letter, please contact [zilim@ust.hk](mailto:zilim@ust.hk).  
+
 ## Hotel Information
 
 - Crowne Plaza Hong Kong Kowloon East ([website](https://www.ihg.com/crowneplaza/hotels/us/en/hong-kong/hkgtk/hoteldetail))  
