@@ -5,7 +5,7 @@
 ## Workshop on Future Internet Research Directions
 
 Mar 13, 2025  
-Room TBD, HKUST, Clear Water Bay campus  
+Room 5562 (Lift 27/28), HKUST, Clear Water Bay campus  
 [http://hkirw.github.io/2025](http://hkirw.github.io/2025)
 
 Built on the huge success of the [HKIRW 2024](http://hkirw.github.io/2024), in the week before the [IETF-122 meeting in Bangkok](https://www.ietf.org/how/meetings/122/), this workshop aims to bring together researchers in computer networking and systems around the globe to a live forum discussing innovative ideas at their early stages. 
