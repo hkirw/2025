@@ -23,7 +23,19 @@ We extremely welcome suggestions for a discussion topic and/or a lightning talk.
 
 ## Program Outline
 
-TBD
+| Time (UTC+8) | Event |
+| :---- | :---- |
+| **10:00 – 10:10** | **Welcome Remarks** *by Dirk Kutscher and Zili Meng (HKUST)* |
+| **10:10 – 11:10** | A Detailed Measurement View on IPv6 Scanners and Their Adaptation to BGP Signals *by Thomas Schmidt* |
+| **11:10 – 11:40** | **Coffee Break** |
+| **11:40 – 12:40** | How will new/emerging photonics change approaches to protocol design *by Dave Oran* |
+| **12:40 – 14:30** | **Lunch** [UniBistros & Bars](https://www.conferencelodge.hk/en/food-beverage/unibistroandbar.html) |
+| **14:30 – 15:30** | Simulating ML Training Workloads *by Jianfei He* |
+| **15:30 – 16:00** | **Coffee Break** |
+| **16:00 – 17:00** | Network Research: Academia, Industry, or Both? *by Zili Meng* |
+| **17:00 – 17:10** | **Wrap-Up** Chairs: Dirk Kutscher and Zili Meng (HKUST) |
+| **18:00 – 21:00** | **Dinner Banquet** |
+
 
 ## Register
 
